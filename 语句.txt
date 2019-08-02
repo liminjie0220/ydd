@@ -1,0 +1,1 @@
+INSERT INTO `xietong`.`t_xietong_dictionary`(`ID`, `TYPE_CODE`, `TYPE_DESC`, `MAIN_VALUE`, `MID_VALUE`, `SUB_VALUE`, `VALUE_SORT`, `VALUE_DESC`, `REMARK`, `TYPE_ID`) VALUES ('149aaf24-3715-11e9-8711-000c2952d39e', '37', '会议室安排人员', '宋亮', '155106617546008', '', '1', '会议室安排人员', '', '7');
